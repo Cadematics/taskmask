@@ -6,9 +6,11 @@ backports.zoneinfo==0.2.1
 black==21.12b0
 click==8.0.3
 decorator==5.1.1
+dj-database-url==0.5.0
 Django==4.0.1
 django-crispy-forms==1.14.0
 django-environ==0.8.1
+django-heroku==0.3.1
 executing==0.8.2
 ipython==8.0.1
 jedi==0.18.1
@@ -20,6 +22,7 @@ pexpect==4.8.0
 pickleshare==0.7.5
 platformdirs==2.4.1
 prompt-toolkit==3.0.25
+psycopg2==2.9.3
 ptyprocess==0.7.0
 pure-eval==0.2.2
 Pygments==2.11.2
@@ -30,3 +33,4 @@ tomli==1.2.3
 traitlets==5.1.1
 typing_extensions==4.0.1
 wcwidth==0.2.5
+whitenoise==5.3.0
